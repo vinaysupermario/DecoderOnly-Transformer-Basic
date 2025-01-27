@@ -1,1 +1,2 @@
 my-decoder-transformer-demo/model/decoder_transformer.pth filter=lfs diff=lfs merge=lfs -text
+model/decoder_transformer.pth filter=lfs diff=lfs merge=lfs -text
